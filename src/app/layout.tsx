@@ -38,13 +38,6 @@ export const metadata: Metadata = {
     description:
       "ZeroXSolutions là startup công nghệ nhỏ, tập trung vào web và ứng dụng. Giải pháp gọn nhẹ, hiệu quả.",
   },
-  icons: {
-    icon: [
-      { url: "/icon.svg", type: "image/svg+xml" },
-    ],
-    shortcut: ["/icon.svg"],
-    apple: [{ url: "/icon.svg" }],
-  },
   robots: {
     index: true,
     follow: true,

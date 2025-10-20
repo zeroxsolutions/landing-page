@@ -9,7 +9,7 @@ export default function Home() {
         <div className="container mx-auto px-6 sm:px-8 h-14 flex items-center justify-between">
           <div className="flex items-center gap-3">
             <Link href="/#top" aria-label="ZeroXSolutions home">
-              <Image src="/zerox-mark.svg" alt="ZeroXSolutions" width={112} height={28} priority className="h-7 w-auto" />
+              <Image src="/icon.svg" alt="ZeroXSolutions" width={112} height={28} priority className="h-7 w-auto" />
             </Link>
           </div>
           <nav className="hidden sm:flex items-center gap-6 text-sm">
