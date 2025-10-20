@@ -11,34 +11,32 @@ const roboto = Roboto({
 
 export const metadata: Metadata = {
   title: {
-    default: "ZeroXSolutions — Crafting modern tech from 2025",
+    default: "ZeroXSolutions — Web & Ứng dụng tối giản",
     template: "%s | ZeroXSolutions",
   },
   description:
-    "ZeroXSolutions là brand công nghệ nhỏ (từ 2025) xây giải pháp web, cloud và AI gọn nhẹ, hiệu quả.",
+    "ZeroXSolutions là startup công nghệ nhỏ, tập trung vào web và ứng dụng. Giải pháp gọn nhẹ, hiệu quả.",
   keywords: [
     "ZeroXSolutions",
-    "công nghệ",
-    "web development",
-    "cloud",
-    "AI",
+    "web",
+    "ứng dụng",
     "Next.js",
   ],
   applicationName: "ZeroXSolutions",
   metadataBase: new URL("https://zeroxsolutions.com"),
   openGraph: {
-    title: "ZeroXSolutions — Crafting modern tech from 2025",
+    title: "ZeroXSolutions — Web & Ứng dụng tối giản",
     description:
-      "ZeroXSolutions là brand công nghệ nhỏ (từ 2025) xây giải pháp web, cloud và AI gọn nhẹ, hiệu quả.",
+      "ZeroXSolutions là startup công nghệ nhỏ, tập trung vào web và ứng dụng. Giải pháp gọn nhẹ, hiệu quả.",
     type: "website",
     url: "https://zeroxsolutions.com",
     siteName: "ZeroXSolutions",
   },
   twitter: {
     card: "summary_large_image",
-    title: "ZeroXSolutions — Crafting modern tech from 2025",
+    title: "ZeroXSolutions — Web & Ứng dụng tối giản",
     description:
-      "ZeroXSolutions là brand công nghệ nhỏ (từ 2025) xây giải pháp web, cloud và AI gọn nhẹ, hiệu quả.",
+      "ZeroXSolutions là startup công nghệ nhỏ, tập trung vào web và ứng dụng. Giải pháp gọn nhẹ, hiệu quả.",
   },
   icons: {
     icon: [
@@ -71,6 +69,7 @@ export default function RootLayout({
   return (
     <html lang="vi">
       <head>
+        {/* Minimal Organization schema */}
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
@@ -80,15 +79,12 @@ export default function RootLayout({
               name: "ZeroXSolutions",
               url: "https://zeroxsolutions.com/",
               logo: "https://zeroxsolutions.com/icon.svg",
-              sameAs: [],
-              contactPoint: [
-                {
-                  "@type": "ContactPoint",
-                  email: "support@zeroxsolutions.com",
-                  contactType: "customer support",
-                  availableLanguage: ["vi", "en"],
-                },
-              ],
+              contactPoint: [{
+                "@type": "ContactPoint",
+                email: "support@zeroxsolutions.com",
+                contactType: "customer support",
+                availableLanguage: ["vi", "en"],
+              }],
               foundingDate: "2025",
             }),
           }}
