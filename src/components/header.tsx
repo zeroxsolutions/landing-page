@@ -38,12 +38,6 @@ export function Header() {
             >
               {t("projects")}
             </a>
-            <a
-              href="mailto:support@zeroxsolutions.com"
-              className="hidden rounded-full px-3 py-1.5 text-sm text-foreground/80 transition-colors hover:bg-muted hover:text-foreground sm:inline-block cursor-pointer"
-            >
-              {t("contact")}
-            </a>
             <LanguageSwitcher />
             <ThemeToggle />
             <Button asChild size="sm" className="ml-1 rounded-full">
