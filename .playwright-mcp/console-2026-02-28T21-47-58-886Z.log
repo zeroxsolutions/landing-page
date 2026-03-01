@@ -1,0 +1,8 @@
+[  580475ms] [WARNING] Detected `scroll-behavior: smooth` on the `<html>` element. In a future version, Next.js will no longer automatically disable smooth scrolling during route transitions. To prepare for this change, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior @ http://localhost:4000/_next/static/chunks/e0f71_next_dist_6f5a4e1e._.js:874
+[  624623ms] [WARNING] [HMR] Invalid message: {"isTrusted":true}
+TypeError: Cannot convert undefined or null to object
+    at Object.keys (<anonymous>)
+    at extractModulesFromTurbopackMessage (http://localhost:4000/_next/static/chunks/e0f71_next_dist_client_520f8ab5._.js:5717:39)
+    at TurbopackHmr.onTurbopackMessage (http://localhost:4000/_next/static/chunks/e0f71_next_dist_client_520f8ab5._.js:5622:32)
+    at processMessage (http://localhost:4000/_next/static/chunks/e0f71_next_dist_client_520f8ab5._.js:6020:30)
+    at WebSocket.handler (http://localhost:4000/_next/static/chunks/e0f71_next_dist_client_520f8ab5._.js:6154:17) @ http://localhost:4000/_next/static/chunks/e0f71_next_dist_client_520f8ab5._.js:5344
