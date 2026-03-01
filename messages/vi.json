@@ -1,0 +1,86 @@
+{
+  "Metadata": {
+    "title": "ZeroXSolutions — Web & Ứng dụng tối giản",
+    "description": "ZeroXSolutions là startup công nghệ nhỏ, tập trung vào web và ứng dụng. Giải pháp gọn nhẹ, hiệu quả.",
+    "ogTitle": "ZeroXSolutions — Web & Ứng dụng tối giản",
+    "ogDescription": "ZeroXSolutions là startup công nghệ nhỏ, tập trung vào web và ứng dụng. Giải pháp gọn nhẹ, hiệu quả.",
+    "keywords": "ZeroXSolutions, thiết kế web, ứng dụng, Next.js, startup"
+  },
+  "Header": {
+    "services": "Dịch vụ",
+    "projects": "Dự án",
+    "contact": "Liên hệ"
+  },
+  "Hero": {
+    "badge": "Startup tối giản",
+    "rotate": {
+      "word1": "Startup tối giản",
+      "word2": "Ưu tiên hiệu suất",
+      "word3": "Chuyên gia Next.js"
+    },
+    "heading1": "Xây web & ứng dụng",
+    "heading2": "tối giản, tối ưu hiệu suất",
+    "subtext": "Startup nhỏ tập trung vào hai mảng: web và ứng dụng. Giải pháp gọn nhẹ, đủ dùng, hiệu quả.",
+    "ctaServices": "Xem dịch vụ",
+    "ctaContact": "Liên hệ nhanh"
+  },
+  "Stats": {
+    "responsePrefix": "< ",
+    "responseValue": "24",
+    "responseSuffix": "h",
+    "responseDesc": "Nhanh chóng, không vòng vo",
+    "focusValue": "2",
+    "focusSuffix": " mảng chính",
+    "focusDesc": "Web & ứng dụng — chỉ vậy thôi",
+    "stack": "Next.js",
+    "stackDesc": "Stack hiện đại, hiệu suất cao"
+  },
+  "Services": {
+    "badge": "Dịch vụ",
+    "heading": "Chỉ tập trung vào thứ mình giỏi",
+    "subtext": "Không dàn trải. Hai mảng duy nhất, làm tới nơi tới chốn.",
+    "web": {
+      "title": "Website hiện đại",
+      "description": "Thiết kế và phát triển website Next.js. Tốc độ cao, SEO tốt, triển khai linh hoạt.",
+      "features": {
+        "landing": "Landing page, blog, tài liệu",
+        "ssr": "SSR/SSG, i18n, phân quyền nội dung",
+        "integration": "Tích hợp analytics, form, CMS headless"
+      }
+    },
+    "app": {
+      "title": "Ứng dụng",
+      "description": "Ứng dụng web (PWA) và dashboard nội bộ. UX rõ ràng, quy trình gọn.",
+      "features": {
+        "pwa": "PWA, offline-first cơ bản",
+        "auth": "Quy trình auth, vai trò, kiểm thử",
+        "api": "Kết nối API, automation nền tảng"
+      }
+    }
+  },
+  "Projects": {
+    "badge": "Dự án",
+    "heading": "Sản phẩm của chúng tôi",
+    "subtext": "Những gì chúng tôi đang xây dựng và vận hành.",
+    "centify": {
+      "title": "Centify.",
+      "description": "Ứng dụng quản lý chi tiêu cá nhân, ưu tiên quyền riêng tư. Ghi chi tiêu trong 3 giây, không cần kết nối ngân hàng.",
+      "features": {
+        "privacy": "Dữ liệu lưu trên thiết bị, không bán data",
+        "sync": "Đồng bộ realtime, hỗ trợ 100+ loại tiền",
+        "export": "Xuất báo cáo CSV/PDF, phân tích chi tiêu"
+      },
+      "cta": "Truy cập centify.app"
+    }
+  },
+  "CTA": {
+    "heading": "Bắt đầu cùng ZeroXSolutions",
+    "subtext": "Mô tả ngắn ý tưởng của bạn — phản hồi trong 24 giờ.",
+    "button": "Gửi email ngay"
+  },
+  "Footer": {
+    "copyright": "© {year} ZeroXSolutions",
+    "tagline": "Giải pháp web & ứng dụng tối giản",
+    "email": "support@zeroxsolutions.com"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "Metadata": {
+    "title": "ZeroXSolutions — Minimalist Web & Apps",
+    "description": "ZeroXSolutions is a small tech startup focused on web and applications. Lightweight, effective solutions.",
+    "ogTitle": "ZeroXSolutions — Minimalist Web & Apps",
+    "ogDescription": "ZeroXSolutions is a small tech startup focused on web and applications. Lightweight, effective solutions.",
+    "keywords": "ZeroXSolutions, web development, apps, Next.js, startup"
+  },
+  "Header": {
+    "services": "Services",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "Hero": {
+    "badge": "Minimalist startup",
+    "rotate": {
+      "word1": "Minimalist startup",
+      "word2": "Performance-first",
+      "word3": "Next.js experts"
+    },
+    "heading1": "Build web & apps",
+    "heading2": "minimalist, performance-optimized",
+    "subtext": "A small startup focused on two areas: web and applications. Lightweight, just-enough, effective solutions.",
+    "ctaServices": "View services",
+    "ctaContact": "Quick contact"
+  },
+  "Stats": {
+    "responsePrefix": "< ",
+    "responseValue": "24",
+    "responseSuffix": "h",
+    "responseDesc": "Quick, no runaround",
+    "focusValue": "2",
+    "focusSuffix": " core areas",
+    "focusDesc": "Web & apps — that's it",
+    "stack": "Next.js",
+    "stackDesc": "Modern stack, high performance"
+  },
+  "Services": {
+    "badge": "Services",
+    "heading": "Focused on what we do best",
+    "subtext": "No spreading thin. Two areas only, done thoroughly.",
+    "web": {
+      "title": "Modern Websites",
+      "description": "Design and develop Next.js websites. High speed, great SEO, flexible deployment.",
+      "features": {
+        "landing": "Landing pages, blogs, documentation",
+        "ssr": "SSR/SSG, i18n, content authorization",
+        "integration": "Analytics, forms, headless CMS integration"
+      }
+    },
+    "app": {
+      "title": "Applications",
+      "description": "Web apps (PWA) and internal dashboards. Clear UX, streamlined workflows.",
+      "features": {
+        "pwa": "PWA, basic offline-first",
+        "auth": "Auth flows, roles, testing",
+        "api": "API connections, platform automation"
+      }
+    }
+  },
+  "Projects": {
+    "badge": "Projects",
+    "heading": "Our Products",
+    "subtext": "What we're building and running.",
+    "centify": {
+      "title": "Centify.",
+      "description": "A privacy-first personal finance app. Track every expense in 3 seconds — no bank connections, no data selling.",
+      "features": {
+        "privacy": "Data stays on-device, never sold",
+        "sync": "Real-time cloud sync, 100+ currencies",
+        "export": "CSV/PDF reports, spending analytics"
+      },
+      "cta": "Visit centify.app"
+    }
+  },
+  "CTA": {
+    "heading": "Get started with ZeroXSolutions",
+    "subtext": "Briefly describe your idea — response within 24 hours.",
+    "button": "Send email now"
+  },
+  "Footer": {
+    "copyright": "© {year} ZeroXSolutions",
+    "tagline": "Minimalist web & app solutions",
+    "email": "support@zeroxsolutions.com"
+  }
+}
